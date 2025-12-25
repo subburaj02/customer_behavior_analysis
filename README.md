@@ -123,7 +123,7 @@ The goal of this project is to **analyze data, uncover insights, and present fin
 
 ## 👤 Author
 
-Subburaj S
+**Subburaj S**
 MCA Graduate | Aspiring Data Analyst
 Skills: Python, SQL, Power BI, Data Analysis
 
